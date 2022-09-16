@@ -4,4 +4,10 @@
 2.tuple
 3.dictionary
 
+#python libraries
+
+1.pandas
+2.lumpy
+3.matlotlib
+
 ##thankyouu
